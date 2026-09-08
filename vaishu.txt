@@ -1,6 +1,6 @@
 # Define two numeric variables
 num1 = 15
-num2 = 4
+num2 = 8
 
 # Perform calculations
 total = num1 - num2
