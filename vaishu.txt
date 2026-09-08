@@ -4,7 +4,7 @@ num2 = 4
 
 # Perform calculations
 total_sum = num1 + num2
-product = num1 * num2
+product = num1 / num2
 
 print("Sum:", total_sum)
 print("Product:", product)
